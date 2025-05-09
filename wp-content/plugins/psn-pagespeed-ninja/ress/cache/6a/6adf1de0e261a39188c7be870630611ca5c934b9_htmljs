@@ -1,0 +1,2 @@
+<script>try{}catch(e){console.log(e)}try{
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' )}catch(e){console.log(e)}</script>

@@ -1,0 +1,41 @@
+[16-Oct-2022 14:53:28 America/Mexico_City] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[16-Oct-2022 14:53:28 America/Mexico_City] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[16-Oct-2022 14:53:28 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[16-Oct-2022 14:53:28 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[16-Oct-2022 14:53:28 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[28-Nov-2022 18:04:28 America/Mexico_City] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[28-Nov-2022 18:04:28 America/Mexico_City] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[28-Nov-2022 18:04:28 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[28-Nov-2022 18:04:28 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[28-Nov-2022 18:04:28 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[30-Nov-2022 19:09:04 America/Mexico_City] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[30-Nov-2022 19:09:04 America/Mexico_City] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[30-Nov-2022 19:09:04 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[30-Nov-2022 19:09:04 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[30-Nov-2022 19:09:04 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/daminssc/dragisneuropedia.com/wp-includes/compat.php on line 447
+[03-Sep-2023 07:19:43 America/Mexico_City] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[03-Sep-2023 07:19:43 America/Mexico_City] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[03-Sep-2023 07:19:43 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[03-Sep-2023 07:19:43 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[03-Sep-2023 07:19:43 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/daminssc/dragisneuropedia.com/wp-includes/functions.php on line 8
+[06-May-2024 20:21:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/class.wp-styles.php on line 18
+[22-May-2024 16:36:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/class.wp-styles.php on line 18
+[03-Nov-2024 03:27:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/class.wp-styles.php on line 18
+[03-Nov-2024 03:27:39 America/Mexico_City] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/wp-diff.php on line 13
+[03-Nov-2024 03:27:39 America/Mexico_City] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/daminssc/dragisneuropedia.com/wp-includes/wp-diff.php on line 13
+[03-Nov-2024 03:27:39 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/wp-diff.php on line 13
+[03-Nov-2024 03:27:39 America/Mexico_City] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home3/daminssc/dragisneuropedia.com/wp-includes/wp-diff.php on line 13
+[03-Nov-2024 03:27:39 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/daminssc/dragisneuropedia.com/wp-includes/wp-diff.php on line 13
+[16-Dec-2024 00:36:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home3/daminssc/dragisneuropedia.com/wp-includes/update.php:801
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/update.php on line 801

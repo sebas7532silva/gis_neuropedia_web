@@ -1,0 +1,18 @@
+User-Agent: * 
+Disallow: /wp- 
+Allow: /wp-content/uploads/ 
+
+
+User-agent: AdsBot-Google
+
+Disallow:
+
+
+User-agent: Googlebot
+
+Disallow:
+
+
+User-agent: Googlebot-image
+
+Disallow:

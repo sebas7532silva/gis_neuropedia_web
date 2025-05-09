@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: MedicalGuide Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://dragisneuropedia.com
+Data file = /home2/dragisne/public_html/wp-content/themes/pearl-medicalguide/inc/demo-import-files/content.xml
+Widget file = /home2/dragisne/public_html/wp-content/themes/pearl-medicalguide/inc/demo-import-files/widgets.wie
+Customizer file = /home2/dragisne/public_html/wp-content/themes/pearl-medicalguide/inc/demo-import-files/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Default Sidebar : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Pages Sidebar : 
+
+Buscar - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Calendario - No Title - Widget already exists
+
+Footer First Column : 
+
+Categorías - Categories - Widget already exists
+
+Footer Second Column : 
+
+Pearl - Twitter - Latest Tweets - Imported
+
+Footer Third Column : 
+
+Pearl - Newsletter - Newsletter - Widget already exists
+
+Footer Fourth Column : 
+
+Pearl - Contact - Get In Touch - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,8 @@
+[28-Nov-2022 18:05:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[30-Nov-2022 19:14:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17

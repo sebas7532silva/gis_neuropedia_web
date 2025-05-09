@@ -1,0 +1,106 @@
+# Translation of Plugins - Check Email - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Check Email - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-14 21:35:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Check Email - Development (trunk)\n"
+
+#: check-email.php:171
+msgid "Send"
+msgstr "Enviar"
+
+#. Author URI of the plugin/theme
+msgid "http://www.stillbreathing.co.uk"
+msgstr "https://www.stillbreathing.co.uk"
+
+#. Author of the plugin/theme
+msgid "Chris Taylor"
+msgstr "Chris Taylor"
+
+#. Description of the plugin/theme
+msgid "Check email allows you to test if your WordPress installation is sending emails correctly."
+msgstr "«Check email» te permite probar si tu instalación de WordPress está enviando correos electrónicos correctamente."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.stillbreathing.co.uk/wordpress/check-email/"
+msgstr "https://www.stillbreathing.co.uk/wordpress/check-email/"
+
+#: check-email.php:172
+msgid "Send test email"
+msgstr "Enviar un correo electrónico de prueba"
+
+#: check-email.php:159
+msgid "Header line break type"
+msgstr "Tipo de salto de línea de la cabecera"
+
+#: check-email.php:153
+msgid "CC"
+msgstr "CC"
+
+#: check-email.php:145
+msgid "From"
+msgstr "De"
+
+#: check-email.php:137
+msgid "Content type"
+msgstr "Tipo de contenido"
+
+#: check-email.php:129
+msgid "MIME Version"
+msgstr "Versión MIME"
+
+#: check-email.php:128
+msgid "Set your custom headers below"
+msgstr "Establece tus cabeceras personalizadas a continuación"
+
+#: check-email.php:117
+msgid "Use custom headers"
+msgstr "Usar cabeceras personalizadas"
+
+#: check-email.php:104
+msgid "Use standard headers"
+msgstr "Usar cabeceras estándar"
+
+#: check-email.php:98
+msgid "Send test email to:"
+msgstr "Enviar un correo electrónico de prueba a:"
+
+#: check-email.php:96
+msgid "Send a test email"
+msgstr "Enviar un correo electrónico de prueba"
+
+#: check-email.php:94
+msgid "Add X header:"
+msgstr "Añadir una cabecera X:"
+
+#: check-email.php:93
+msgid "SMTP port (Windows):"
+msgstr "Puerto SMTP (Windows):"
+
+#: check-email.php:92
+msgid "SMTP server (Windows):"
+msgstr "Servidor SMTP (Windows):"
+
+#: check-email.php:91
+msgid "SendMail path (UNIX):"
+msgstr "Ruta de SendMail (UNIX):"
+
+#: check-email.php:90
+msgid "Current mail settings"
+msgstr "Ajustes de correo actuales"
+
+#: check-email.php:84
+msgid "The test email has been sent by WordPress. Please note this does NOT mean it has been delivered. See <a href=\"http://codex.wordpress.org/Function_Reference/wp_mail\">wp_mail in the Codex</a> for more information. The headers sent were:"
+msgstr "El correo electrónico de prueba ha sido enviado por WordPress. Ten en cuenta que esto NO significa que se haya entregado. Consulta <a href=\"http://codex.wordpress.org/Function_Reference/wp_mail\">wp_mail en el Códex </a> para obtener más información. Las cabeceras enviadas fueron:"
+
+#. #-#-#-#-#  tmp-check-email.pot (Check Email 0.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: check-email.php:26 check-email.php:88
+msgid "Check Email"
+msgstr "Check Email"

@@ -1,0 +1,4 @@
+[30-Apr-2023 08:01:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/daminssc/dragisneuropedia.com/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-content/themes/twentyseventeen/index.php on line 18

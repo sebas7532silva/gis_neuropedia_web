@@ -1,0 +1,1390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pearl-medical-framework\n"
+"POT-Creation-Date: 2019-03-06 11:40+0500\n"
+"PO-Revision-Date: 2019-10-29 03:40+0000\n"
+"Last-Translator: gisela <admin@dragisneuropedia.com>\n"
+"Language-Team: Español\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: es_ES\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: admin/class-pearl-doctor-post-type.php:23
+#: admin/class-pearl-doctor-post-type.php:45
+#: admin/class-pearl-doctor-post-type.php:46
+msgid "Doctors"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:24
+msgid "Doctor"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:25
+msgid "Parent Doctor:"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:26
+msgid "All Doctors"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:27
+msgid "Add New Doctor"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:28
+#: admin/class-pearl-faq-post-type.php:28
+#: admin/class-pearl-gallery-post-type.php:28
+#: admin/class-pearl-service-post-type.php:28
+#: admin/class-pearl-testimonial-post-type.php:28
+msgid "Add New"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:29
+msgid "New Doctor"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:30
+msgid "Edit Doctors"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:31
+msgid "Update Doctor"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:32
+msgid "View Doctor"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:33
+msgid "Search Doctor"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:34
+#: admin/class-pearl-faq-post-type.php:34
+#: admin/class-pearl-gallery-post-type.php:34
+#: admin/class-pearl-service-post-type.php:34
+#: admin/class-pearl-testimonial-post-type.php:34
+msgid "Not found"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:35
+#: admin/class-pearl-faq-post-type.php:35
+#: admin/class-pearl-gallery-post-type.php:35
+#: admin/class-pearl-service-post-type.php:35
+#: admin/class-pearl-testimonial-post-type.php:35
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:39
+msgid "doctor"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:76 visual-composer/vc_map.php:499
+msgid "Departments"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:77
+msgid "All Departments"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:78
+msgid "Parent Department"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:79
+msgid "Parent Department:"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:80
+msgid "New Department Name"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:81
+msgid "Add New Department"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:82
+msgid "Edit Department"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:83
+msgid "Update Department"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:84
+msgid "View Department"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:85
+msgid "Separate Departments with commas"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:86
+msgid "Add or remove Departments"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:87
+#: admin/class-pearl-gallery-post-type.php:88
+msgid "Choose from the most used"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:88
+msgid "Popular Departments"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:89
+msgid "Search Departments"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:90
+#: admin/class-pearl-gallery-post-type.php:91
+msgid "Not Found"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:124
+#: admin/class-pearl-testimonial-post-type.php:70
+msgid "Picture"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:158
+#: admin/class-pearl-gallery-post-type.php:158
+#: admin/class-pearl-testimonial-post-type.php:104
+msgid "No Image"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:189
+msgid "Doctor Information"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:195
+#: visual-composer/shortcodes/shortcodes.php:1290
+msgid "Speciality"
+msgstr "Especialidad"
+
+#: admin/class-pearl-doctor-post-type.php:200
+msgid "Degree"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:205
+#: visual-composer/shortcodes/shortcodes.php:1298
+msgid "Experience"
+msgstr "Experiencia"
+
+#: admin/class-pearl-doctor-post-type.php:210
+msgid "Work Days"
+msgstr "Días de trabajo"
+
+#: admin/class-pearl-doctor-post-type.php:215
+#: visual-composer/shortcodes/shortcodes.php:1302
+msgid "Training"
+msgstr "Capacitación"
+
+#: admin/class-pearl-doctor-post-type.php:220 visual-composer/vc_map.php:864
+msgid "Twitter URL"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:225 visual-composer/vc_map.php:857
+msgid "Facebook URL"
+msgstr ""
+
+#: admin/class-pearl-doctor-post-type.php:230
+msgid "Google+ URL"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:23
+#: admin/class-pearl-faq-post-type.php:39
+#: admin/class-pearl-faq-post-type.php:40
+msgid "FAQs"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:24
+msgid "FAQ"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:25
+msgid "Parent FAQ:"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:26
+msgid "All FAQs"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:27
+msgid "Add New FAQ"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:29
+msgid "New FAQ"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:30
+msgid "Edit FAQs"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:31
+msgid "Update FAQ"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:32
+msgid "View FAQ"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:33
+msgid "Search FAQ"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:75
+msgid "FAQ Data"
+msgstr ""
+
+#: admin/class-pearl-faq-post-type.php:81 visual-composer/vc_map.php:151
+msgid "Icon"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:23
+#: admin/class-pearl-gallery-post-type.php:46
+#: admin/class-pearl-gallery-post-type.php:47
+msgid "Gallery Items"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:24
+msgid "Gallery Item"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:25
+msgid "Parent Gallery Item:"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:26
+msgid "All Gallery Items"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:27
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:29
+msgid "New Gallery Item"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:30
+msgid "Edit Gallery Items"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:31
+msgid "Update Gallery Item"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:32
+msgid "View Gallery Item"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:33
+msgid "Search Gallery Item"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:77
+msgid "Types"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:78
+msgid "All Types"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:79
+msgid "Parent Type"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:80
+msgid "Parent Type:"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:81
+msgid "New Type Name"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:82
+msgid "Add New Type"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:83
+msgid "Edit Type"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:84
+msgid "Update Type"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:85
+msgid "View Type"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:86
+msgid "Separate Types with commas"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:87
+msgid "Add or remove Types"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:89
+msgid "Popular Types"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:90
+msgid "Search Types"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:125
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:126 visual-composer/vc_map.php:30
+#: visual-composer/vc_map.php:71 visual-composer/vc_map.php:168
+#: visual-composer/vc_map.php:815
+msgid "Description"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:165
+msgid "No Text"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:185
+msgid "Gallery Item Data"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:191
+msgid "Short Description"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:192
+msgid "Provide short description to display on the gallery post."
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:197
+msgid "Video URL"
+msgstr ""
+
+#: admin/class-pearl-gallery-post-type.php:198
+msgid ""
+"(optional) Provide a video url for this gallery post. e.g: https://vimeo."
+"com/7449107"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:23
+#: admin/class-pearl-service-post-type.php:45
+#: admin/class-pearl-service-post-type.php:46
+msgid "Services"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:24
+msgid "Service"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:25
+msgid "Parent Service:"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:26
+msgid "All Services"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:27
+msgid "Add New Service"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:29
+msgid "New Service"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:30
+msgid "Edit Service"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:31
+msgid "Update Service"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:32
+msgid "View Service"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:33
+msgid "Search Service"
+msgstr ""
+
+#: admin/class-pearl-service-post-type.php:39
+msgid "service"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:23
+#: admin/class-pearl-testimonial-post-type.php:39
+#: admin/class-pearl-testimonial-post-type.php:40
+msgid "Testimonials"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:24
+msgid "Testimonial"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:25
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:26
+msgid "All Testimonials"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:27
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:29
+msgid "New Testimonial"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:30
+msgid "Edit Testimonials"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:31
+msgid "Update Testimonial"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:32
+msgid "View Testimonial"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:33
+msgid "Search Testimonial"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:135
+msgid "Testimonial Data"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:141
+msgid "Text"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:148
+msgid "Name"
+msgstr ""
+
+#: admin/class-pearl-testimonial-post-type.php:153
+msgid "Patient"
+msgstr ""
+
+#: admin/inc/twitter.php:14
+msgid "Pearl - Twitter"
+msgstr ""
+
+#: admin/inc/twitter.php:15
+msgid "A widget to display tweets."
+msgstr ""
+
+#: admin/inc/twitter.php:71
+msgid ""
+"Problem in getting tweets. Kindly verify the twitter configurations provided "
+"in the widget."
+msgstr ""
+
+#: admin/inc/twitter.php:81
+msgid "Latest Tweets"
+msgstr ""
+
+#: admin/inc/twitter.php:91 visual-composer/vc_map.php:21
+#: visual-composer/vc_map.php:62 visual-composer/vc_map.php:159
+#: visual-composer/vc_map.php:808
+msgid "Title"
+msgstr ""
+
+#: admin/inc/twitter.php:98
+msgid "Twitter Username"
+msgstr ""
+
+#: admin/inc/twitter.php:105
+msgid "Number of Tweets to Display"
+msgstr ""
+
+#: admin/inc/twitter.php:112
+msgid "Consumer Key"
+msgstr ""
+
+#: admin/inc/twitter.php:120
+msgid "Consumer Secret"
+msgstr ""
+
+#: admin/inc/twitter.php:127
+msgid "Access Token"
+msgstr ""
+
+#: admin/inc/twitter.php:134
+msgid "Access Token Secret"
+msgstr ""
+
+#: admin/inc/twitter.php:217
+msgid "right now"
+msgstr ""
+
+#: admin/inc/twitter.php:222
+msgid "seconds ago"
+msgstr ""
+
+#: admin/inc/twitter.php:227
+msgid "about 1 minute ago"
+msgstr ""
+
+#: admin/inc/twitter.php:232
+msgid "minutes ago"
+msgstr ""
+
+#: admin/inc/twitter.php:237
+msgid "about 1 hour ago"
+msgstr ""
+
+#: admin/inc/twitter.php:242
+msgid "hours ago"
+msgstr ""
+
+#: admin/inc/twitter.php:247
+msgid "yesterday"
+msgstr ""
+
+#: admin/inc/twitter.php:252
+msgid "days ago"
+msgstr ""
+
+#: admin/inc/twitter.php:256
+msgid "over a year ago"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:20 admin/pearl-mail-handler.php:127
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:30 admin/pearl-mail-handler.php:137
+msgid "Target Email address is not properly configured!"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:46 admin/pearl-mail-handler.php:154
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:51
+msgid "New message sent by"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:51
+msgid "using contact form at"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:52
+msgid "You have received a message from: "
+msgstr ""
+
+#: admin/pearl-mail-handler.php:55 admin/pearl-mail-handler.php:163
+msgid "Phone Number : "
+msgstr "Celular"
+
+#: admin/pearl-mail-handler.php:58 admin/pearl-mail-handler.php:170
+msgid "Their additional message is as follows."
+msgstr ""
+
+#: admin/pearl-mail-handler.php:60 admin/pearl-mail-handler.php:172
+msgid "You can contact "
+msgstr ""
+
+#: admin/pearl-mail-handler.php:60 admin/pearl-mail-handler.php:172
+msgid " via email, "
+msgstr ""
+
+#: admin/pearl-mail-handler.php:87
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:92 admin/pearl-mail-handler.php:186
+msgid "Server Error: WordPress mail function failed!"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:100 admin/pearl-mail-handler.php:194
+msgid "Invalid Request !"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:159
+msgid "Appointment request sent by"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:159
+msgid "using Appointment form at"
+msgstr ""
+
+#: admin/pearl-mail-handler.php:160
+msgid "You have received an appointment request from: "
+msgstr ""
+
+#: admin/pearl-mail-handler.php:167
+msgid "Appointment Date : "
+msgstr ""
+
+#: admin/pearl-mail-handler.php:181
+msgid "Request Sent Successfully!"
+msgstr ""
+
+#: includes/class-pearl-medical-framework.php:168
+msgid "Meta Box plugin has been deactivated!"
+msgstr ""
+
+#: includes/class-pearl-medical-framework.php:169
+#: includes/class-pearl-medical-framework.php:186
+#: includes/class-pearl-medical-framework.php:203
+#: includes/class-pearl-medical-framework.php:220
+#: includes/class-pearl-medical-framework.php:237
+msgid "Its functionality is embedded within the Pearl plugin."
+msgstr ""
+
+#: includes/class-pearl-medical-framework.php:172
+#: includes/class-pearl-medical-framework.php:189
+#: includes/class-pearl-medical-framework.php:206
+#: includes/class-pearl-medical-framework.php:223
+#: includes/class-pearl-medical-framework.php:240
+msgid "So, You should remove it completely from your plugins."
+msgstr ""
+
+#: includes/class-pearl-medical-framework.php:186
+msgid "Meta Box Columns plugin has been deactivated!"
+msgstr ""
+
+#: includes/class-pearl-medical-framework.php:203
+msgid "Meta Box Tabs plugin has been deactivated!"
+msgstr ""
+
+#: includes/class-pearl-medical-framework.php:220
+msgid "Meta Box Show Hide plugin has been deactivated!"
+msgstr ""
+
+#: includes/class-pearl-medical-framework.php:237
+msgid "Meta Box Group plugin has been deactivated!"
+msgstr ""
+
+#: pearl-medical-framework.php:86
+msgid ""
+"Sorry, you cannot use MedicalGuide theme elements because Visual Composer "
+"plugin is not activated."
+msgstr ""
+
+#: plugins/meta-box/inc/clone.php:97
+msgid "+ Add more"
+msgstr ""
+
+#: plugins/meta-box/inc/core.php:41
+msgid "Documentation"
+msgstr ""
+
+#: plugins/meta-box/inc/core.php:42
+msgid "Extensions"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/autocomplete.php:20
+#: plugins/meta-box/inc/fields/autocomplete.php:79
+#: plugins/meta-box/inc/fields/autocomplete.php:94
+msgid "Delete"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/button.php:32
+msgid "Click me"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/checkbox.php:67
+msgid "Yes"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/checkbox.php:67
+msgid "No"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file-input.php:19
+msgid "Select File"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file-input.php:38
+#: plugins/meta-box/inc/fields/select.php:89
+msgid "Select"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file-input.php:40
+msgid "Remove"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file.php:21
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file.php:23
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file.php:79
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/key-value.php:126
+msgid "Key"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/key-value.php:127
+msgid "Value"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/map.php:61
+msgid "Find Address"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/oembed.php:64
+msgid "Embed HTML not available."
+msgstr ""
+
+#: plugins/meta-box/inc/fields/oembed.php:79
+msgid "Preview"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/post.php:36
+msgid "Select a post"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/post.php:41
+#: plugins/meta-box/inc/fields/taxonomy.php:52
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/select-advanced.php:46
+msgid "Select an item"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/select.php:89
+msgid "All"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/select.php:89
+msgid "None"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/user.php:30
+msgid "Select an user"
+msgstr ""
+
+#: plugins/meta-box/inc/validation.php:47
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: visual-composer/shortcodes/custom/custom_param.php:19
+#: visual-composer/shortcodes/custom/custom_param.php:31
+msgid "Add New Field"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:26
+msgid "Name*"
+msgstr "Nombre*"
+
+#: visual-composer/shortcodes/shortcodes.php:26
+msgid "* Please provide your name"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:29
+msgid "Email*"
+msgstr "Correo*"
+
+#: visual-composer/shortcodes/shortcodes.php:29
+msgid "* Please provide your email"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:32
+msgid "Number"
+msgstr "Número"
+
+#: visual-composer/shortcodes/shortcodes.php:32
+msgid "Please provide your number"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:35
+msgid "Message*"
+msgstr "Mensaje*"
+
+#: visual-composer/shortcodes/shortcodes.php:35
+msgid "* Please provide your message"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:39
+msgid "*Please check GDPR checkbox"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:40
+msgid ""
+"I consent to having this website store my submitted information so they can "
+"respond to my inquiry."
+msgstr ""
+"Doy mi consentimiento para que este sitio web almacene la información "
+"enviada para que puedan responder a mi consulta."
+
+#: visual-composer/shortcodes/shortcodes.php:48
+msgid "Submit"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:51
+#: visual-composer/shortcodes/shortcodes.php:432
+msgid "Loading..."
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:120
+msgid "Phone:"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:124
+msgid "Fax:"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:128
+msgid "Email:"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:132
+msgid "Website:"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:136
+msgid "Address:"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:196
+msgid "Enter Your Address"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:286
+msgid "Read More"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:396
+msgid "* Please enter your name."
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:399
+msgid "Your Name"
+msgstr "Nombre"
+
+#: visual-composer/shortcodes/shortcodes.php:403
+msgid "* Please enter a valid email."
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:406
+msgid "Email Address"
+msgstr "Correo electrónico"
+
+#: visual-composer/shortcodes/shortcodes.php:413 visual-composer/vc_map.php:822
+msgid "Phone Number"
+msgstr "Celular"
+
+#: visual-composer/shortcodes/shortcodes.php:418
+msgid "Appointment Date"
+msgstr "Fecha de la cita"
+
+#: visual-composer/shortcodes/shortcodes.php:418
+msgid "* Please select an appointment date."
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:426
+msgid "Message"
+msgstr "Mensaje y razón de la cita"
+
+#: visual-composer/shortcodes/shortcodes.php:430
+msgid "send"
+msgstr "Envíar"
+
+#: visual-composer/shortcodes/shortcodes.php:1186
+msgid "no comments"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:1186
+msgid "one comment"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:1186
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: visual-composer/shortcodes/shortcodes.php:1294
+msgid "Degrees"
+msgstr "Grados"
+
+#: visual-composer/shortcodes/shortcodes.php:1306
+msgid "Work days"
+msgstr "Días de trabajo"
+
+#: visual-composer/shortcodes/shortcodes.php:1364
+msgid "- View Profile"
+msgstr ""
+
+#: visual-composer/vc_map.php:13
+msgid "Pearl Heading"
+msgstr ""
+
+#: visual-composer/vc_map.php:16 visual-composer/vc_map.php:57
+#: visual-composer/vc_map.php:95 visual-composer/vc_map.php:116
+#: visual-composer/vc_map.php:146 visual-composer/vc_map.php:234
+#: visual-composer/vc_map.php:345 visual-composer/vc_map.php:474
+#: visual-composer/vc_map.php:514 visual-composer/vc_map.php:601
+#: visual-composer/vc_map.php:633 visual-composer/vc_map.php:653
+#: visual-composer/vc_map.php:697 visual-composer/vc_map.php:738
+#: visual-composer/vc_map.php:759 visual-composer/vc_map.php:803
+#: visual-composer/vc_map.php:892
+msgid "MedicalGuide Theme"
+msgstr ""
+
+#: visual-composer/vc_map.php:24 visual-composer/vc_map.php:65
+msgid "Please enter a title."
+msgstr ""
+
+#: visual-composer/vc_map.php:33 visual-composer/vc_map.php:74
+msgid "Please enter a description."
+msgstr ""
+
+#: visual-composer/vc_map.php:39
+msgid "Color"
+msgstr ""
+
+#: visual-composer/vc_map.php:54
+msgid "Pearl Appointment Form"
+msgstr ""
+
+#: visual-composer/vc_map.php:80
+msgid "Appointment Form Image"
+msgstr ""
+
+#: visual-composer/vc_map.php:83
+msgid "Please set an appointment image to display on the left side."
+msgstr ""
+
+#: visual-composer/vc_map.php:92
+msgid "Pearl Services Tabs"
+msgstr ""
+
+#: visual-composer/vc_map.php:100
+msgid "Number of Services to display"
+msgstr ""
+
+#: visual-composer/vc_map.php:103
+msgid "Select a number of services posts you want to display."
+msgstr ""
+
+#: visual-composer/vc_map.php:113
+msgid "Pearl Quote"
+msgstr ""
+
+#: visual-composer/vc_map.php:121
+msgid "Quote"
+msgstr ""
+
+#: visual-composer/vc_map.php:124
+msgid "Please provide quote text here."
+msgstr ""
+
+#: visual-composer/vc_map.php:130
+msgid "Author"
+msgstr ""
+
+#: visual-composer/vc_map.php:133
+msgid "Please provide quote author name here."
+msgstr ""
+
+#: visual-composer/vc_map.php:143
+msgid "Pearl Static Service"
+msgstr ""
+
+#: visual-composer/vc_map.php:154
+msgid "Please provide an icon class here."
+msgstr ""
+
+#: visual-composer/vc_map.php:162
+msgid "Please provide a service title here."
+msgstr ""
+
+#: visual-composer/vc_map.php:171
+msgid "Please provide service description here."
+msgstr ""
+
+#: visual-composer/vc_map.php:177 visual-composer/vc_map.php:351
+#: visual-composer/vc_map.php:488 visual-composer/vc_map.php:606
+msgid "Style"
+msgstr ""
+
+#: visual-composer/vc_map.php:198
+msgid "Color Scheme"
+msgstr ""
+
+#: visual-composer/vc_map.php:200
+msgid ""
+"If you choose light color scheme then the service block text color will be "
+"dark. However, if you choose dark color scheme then the service block text "
+"color will be white."
+msgstr ""
+
+#: visual-composer/vc_map.php:213
+msgid "Bottom Space"
+msgstr ""
+
+#: visual-composer/vc_map.php:231
+msgid "Pearl Guide Blocks"
+msgstr ""
+
+#: visual-composer/vc_map.php:239
+msgid "First Block Title"
+msgstr ""
+
+#: visual-composer/vc_map.php:248
+msgid "First Block Description"
+msgstr ""
+
+#: visual-composer/vc_map.php:256
+msgid "First Block Button Text"
+msgstr ""
+
+#: visual-composer/vc_map.php:264
+msgid "First Block Button link"
+msgstr ""
+
+#: visual-composer/vc_map.php:272
+msgid "Second Block Title"
+msgstr ""
+
+#: visual-composer/vc_map.php:281
+msgid "Second Block Description"
+msgstr ""
+
+#: visual-composer/vc_map.php:289
+msgid "Second Block Button Text"
+msgstr ""
+
+#: visual-composer/vc_map.php:297
+msgid "Second Block Button link"
+msgstr ""
+
+#: visual-composer/vc_map.php:305
+msgid "Third Block Title"
+msgstr ""
+
+#: visual-composer/vc_map.php:314
+msgid "Third Block Description"
+msgstr ""
+
+#: visual-composer/vc_map.php:322
+msgid "Third Block Button Text"
+msgstr ""
+
+#: visual-composer/vc_map.php:330
+msgid "Third Block Button link"
+msgstr ""
+
+#: visual-composer/vc_map.php:342
+msgid "Pearl Stats Counter"
+msgstr ""
+
+#: visual-composer/vc_map.php:362
+msgid "First Counter Title"
+msgstr ""
+
+#: visual-composer/vc_map.php:371
+msgid "First Counter Numbers"
+msgstr ""
+
+#: visual-composer/vc_map.php:379
+msgid "Second Counter Title"
+msgstr ""
+
+#: visual-composer/vc_map.php:388
+msgid "Second Counter Numbers"
+msgstr ""
+
+#: visual-composer/vc_map.php:396
+msgid "Third Counter Title"
+msgstr ""
+
+#: visual-composer/vc_map.php:405
+msgid "Third Counter Numbers"
+msgstr ""
+
+#: visual-composer/vc_map.php:413
+msgid "Fourth Counter Title"
+msgstr ""
+
+#: visual-composer/vc_map.php:422
+msgid "Fourth Counter Numbers"
+msgstr ""
+
+#: visual-composer/vc_map.php:430
+msgid "Fifth Counter Title"
+msgstr ""
+
+#: visual-composer/vc_map.php:443
+msgid "Fifth Counter Numbers"
+msgstr ""
+
+#: visual-composer/vc_map.php:471
+msgid "Pearl Doctors"
+msgstr ""
+
+#: visual-composer/vc_map.php:479
+msgid "Number of Doctors to display"
+msgstr ""
+
+#: visual-composer/vc_map.php:482
+msgid "Select a number of doctors posts you want to display."
+msgstr ""
+
+#: visual-composer/vc_map.php:511
+msgid "Pearl Pricing Table"
+msgstr ""
+
+#: visual-composer/vc_map.php:520
+msgid "Table Type"
+msgstr ""
+
+#: visual-composer/vc_map.php:532 visual-composer/vc_map.php:702
+msgid "Heading"
+msgstr ""
+
+#: visual-composer/vc_map.php:535
+msgid "Provide pricing table heading."
+msgstr ""
+
+#: visual-composer/vc_map.php:542
+msgid "Currency"
+msgstr ""
+
+#: visual-composer/vc_map.php:545
+msgid "Provide pricing table currency e.g £ or $."
+msgstr ""
+
+#: visual-composer/vc_map.php:552
+msgid "Price"
+msgstr ""
+
+#: visual-composer/vc_map.php:555
+msgid "Provide pricing table pricing."
+msgstr ""
+
+#: visual-composer/vc_map.php:561
+msgid "Interval"
+msgstr ""
+
+#: visual-composer/vc_map.php:564
+msgid "Provide pricing table package interval e.g Per Month."
+msgstr ""
+
+#: visual-composer/vc_map.php:570
+msgid "Button Text"
+msgstr ""
+
+#: visual-composer/vc_map.php:573
+msgid "Provide pricing table button text e.g Sign Up."
+msgstr ""
+
+#: visual-composer/vc_map.php:579
+msgid "Button URL"
+msgstr ""
+
+#: visual-composer/vc_map.php:582
+msgid "Provide pricing table button URL."
+msgstr ""
+
+#: visual-composer/vc_map.php:587
+msgid "Pricing Table Fields"
+msgstr ""
+
+#: visual-composer/vc_map.php:598
+msgid "Pearl FAQs"
+msgstr ""
+
+#: visual-composer/vc_map.php:617
+msgid "Number of FAQs to display"
+msgstr ""
+
+#: visual-composer/vc_map.php:620
+msgid "Select a number of faqs posts you want to display."
+msgstr ""
+
+#: visual-composer/vc_map.php:630
+msgid "Pearl Gallery"
+msgstr ""
+
+#: visual-composer/vc_map.php:638
+msgid "Gallery Images"
+msgstr ""
+
+#: visual-composer/vc_map.php:641
+msgid "Upload gallery images."
+msgstr ""
+
+#: visual-composer/vc_map.php:650
+msgid "Pearl List"
+msgstr ""
+
+#: visual-composer/vc_map.php:658
+msgid "List Style"
+msgstr ""
+
+#: visual-composer/vc_map.php:669
+msgid "List Items"
+msgstr ""
+
+#: visual-composer/vc_map.php:675
+msgid "Layout"
+msgstr ""
+
+#: visual-composer/vc_map.php:694
+msgid "Pearl Testimonials"
+msgstr ""
+
+#: visual-composer/vc_map.php:705
+msgid "Provide testimonial section heading."
+msgstr ""
+
+#: visual-composer/vc_map.php:711
+msgid "Number of Testimonials to display"
+msgstr ""
+
+#: visual-composer/vc_map.php:714
+msgid "Select a number of testimonials posts you want to display."
+msgstr ""
+
+#: visual-composer/vc_map.php:720
+msgid "Font Color"
+msgstr ""
+
+#: visual-composer/vc_map.php:735
+msgid "Pearl News"
+msgstr ""
+
+#: visual-composer/vc_map.php:743
+msgid "Number of News to display"
+msgstr ""
+
+#: visual-composer/vc_map.php:746
+msgid "Select a number of news posts you want to display."
+msgstr ""
+
+#: visual-composer/vc_map.php:756
+msgid "Contact Form"
+msgstr ""
+
+#: visual-composer/vc_map.php:764
+msgid "Target Email Address"
+msgstr ""
+
+#: visual-composer/vc_map.php:765
+msgid ""
+"Provide a target email address where you would like to receive the contact "
+"form requests."
+msgstr ""
+
+#: visual-composer/vc_map.php:772
+msgid "CC Email Address"
+msgstr ""
+
+#: visual-composer/vc_map.php:773
+msgid ""
+"You can add multiple comma separated cc email addresses, to get a carbon "
+"copy of contact form message."
+msgstr ""
+
+#: visual-composer/vc_map.php:780
+msgid "BCC Email Address"
+msgstr ""
+
+#: visual-composer/vc_map.php:781
+msgid ""
+"You can add multiple comma separated bcc email addresses, to get a blind "
+"carbon copy of contact form message."
+msgstr ""
+
+#: visual-composer/vc_map.php:788
+msgid "GDPR Checkbox Feature"
+msgstr ""
+
+#: visual-composer/vc_map.php:789
+msgid "Check this to turn on GDPR checkbox in the contact form."
+msgstr ""
+
+#: visual-composer/vc_map.php:800
+msgid "Contact Information"
+msgstr ""
+
+#: visual-composer/vc_map.php:829
+msgid "Fax Number"
+msgstr ""
+
+#: visual-composer/vc_map.php:836
+msgid "Email"
+msgstr ""
+
+#: visual-composer/vc_map.php:843
+msgid "Website URL"
+msgstr ""
+
+#: visual-composer/vc_map.php:850
+msgid "Address"
+msgstr ""
+
+#: visual-composer/vc_map.php:871
+msgid "Google URL"
+msgstr ""
+
+#: visual-composer/vc_map.php:878
+msgid "Vimeo URL"
+msgstr ""
+
+#: visual-composer/vc_map.php:889
+msgid "Google Map"
+msgstr ""
+
+#: visual-composer/vc_map.php:897
+msgid "Google Map Latitude"
+msgstr ""
+
+#: visual-composer/vc_map.php:898
+#, php-format
+msgid ""
+"You can use %s OR %s to get Latitude and longitude of your desired location."
+msgstr ""
+
+#: visual-composer/vc_map.php:905
+msgid "Google Map Longitude"
+msgstr ""
+
+#: visual-composer/vc_map.php:912
+msgid "Google Map Zoom Level"
+msgstr ""
+
+#: visual-composer/vc_map.php:919
+msgid "Map Direction Address"
+msgstr ""
+
+#: visual-composer/vc_map.php:934
+msgid "Enable container if you want to display boxed layout for your contents."
+msgstr ""

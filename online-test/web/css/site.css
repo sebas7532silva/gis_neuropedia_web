@@ -1,0 +1,540 @@
+html,
+body {
+    height: 100%;
+}
+
+a:visited 
+{
+    text-decoration: none; 
+    decoration: none; 
+	color: inherit;
+}
+
+a:hover
+{
+    text-decoration: none; 
+    decoration: none; 
+	color: inherit;
+}
+
+
+.wrap {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+}
+
+.wrap > .container {
+    padding: 70px 15px 20px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.not-set {
+    color: #c55;
+    font-style: italic;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-left: 5px;
+}
+
+a.asc:after {
+    content: /*"\e113"*/ "\e151";
+}
+
+a.desc:after {
+    content: /*"\e114"*/ "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.grid-view th {
+    white-space: nowrap;
+}
+
+.hint-block {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}
+
+.error-summary {
+    color: #a94442;
+    background: #fdf7f7;
+    border-left: 3px solid #eed3d7;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+}
+
+/* align the logout "link" (button in form) of the navbar */
+.nav li > form > button.logout {
+    padding: 15px;
+    border: none;
+}
+
+@media(max-width:767px) {
+    .nav li > form > button.logout {
+        display:block;
+        text-align: left;
+        width: 100%;
+        padding: 10px 15px;
+    }
+}
+
+.nav > li > form > button.logout:focus,
+.nav > li > form > button.logout:hover {
+    text-decoration: none;
+}
+
+.nav > li > form > button.logout:focus {
+    outline: none;
+}
+
+.navbar-inverse{
+	background-color: #311784
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+	color: #f9df26;
+	font-weight: 800;
+}
+
+
+
+
+.buttonyes {
+  display: inline-block;
+  padding: 1.75rem 2.5rem;
+  border-radius: 10rem;
+  color: #fff!important;
+  text-transform: uppercase;
+  font-size: 4rem;
+  letter-spacing: 0.15rem;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  text-decoration: none!important;
+}
+.buttonyes:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #0cf;
+  border-radius: 10rem;
+  z-index: -2;
+}
+.buttonyes:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  height: 100%;
+  background-color: #049cdc;
+  transition: all 0.3s;
+  border-radius: 10rem;
+  z-index: -1;
+}
+.buttonyes:hover {
+  color: #fff;
+}
+.buttonyes:hover:before {
+  width: 100%;
+}
+
+
+.buttonsom {
+  display: inline-block;
+  padding: 1.75rem 2.5rem;
+  border-radius: 10rem;
+  color: #fff!important;
+  text-transform: uppercase;
+  font-size: 4rem;
+  letter-spacing: 0.15rem;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  text-decoration: none!important;
+}
+.buttonsom:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #8bdafb;
+  border-radius: 10rem;
+  z-index: -2;
+}
+.buttonsom:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  height: 100%;
+  background-color: #049cdc;
+  transition: all 0.3s;
+  border-radius: 10rem;
+  z-index: -1;
+}
+.buttonsom:hover {
+  color: #fff;
+}
+.buttonsom:hover:before {
+  width: 100%;
+}
+
+
+.buttonnot {
+  display: inline-block;
+  padding: 1.75rem 2.5rem;
+  border-radius: 10rem;
+  border: 2px solid #99ccff;
+  color: #555;
+  text-transform: uppercase;
+  font-size: 4rem;
+  letter-spacing: 0.15rem;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  text-decoration: none!important;
+}
+.buttonnot:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 10rem;
+  z-index: -2;
+}
+.buttonnot:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  height: 100%;
+  background-color: #049cdc;
+  transition: all 0.3s;
+  border-radius: 10rem;
+  z-index: -1;
+}
+.buttonnot:hover {
+  color: #fff;
+}
+.buttonnot:hover:before {
+  width: 100%;
+}
+
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 60%
+}
+
+
+
+
+.response {
+  padding: 1rem 4rem;
+  border-radius: 9rem;
+  border: 2px solid #99ccff;
+  color: #555;
+  text-transform: uppercase;
+  font-size: 2rem;
+  letter-spacing: 0.15rem;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  text-decoration: none!important;
+}
+
+
+.stepper-wrapper {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1 em;
+}
+.stepper-item {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+	color: white;
+  @media (max-width: 768px) {
+    font-size: 1 em;
+  }
+}
+
+.stepper-item::before {
+  position: absolute;
+  content: "";
+  border-bottom: 2px solid #ccc;
+  width: 100%;
+  top: 20px;
+  left: -50%;
+  z-index: 2;
+}
+
+.stepper-item::after {
+  position: absolute;
+  content: "";
+  border-bottom: 2px solid #ccc;
+  width: 100%;
+  top: 20px;
+  left: 50%;
+  z-index: 2;
+}
+
+.stepper-item .step-counter {
+  position: relative;
+  z-index: 5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #ccc;
+  margin-bottom: 6px;
+}
+
+.stepper-item.active {
+  font-weight: bold;
+}
+
+.stepper-item.active .step-counter {
+  background-color: white;
+  color: #049cdc;
+  border: 2px solid #049cdc;
+}
+
+
+.stepper-item.active::after {
+  position: absolute;
+  content: "";
+  border-bottom: 2px solid #049cdc;
+  width: 100%;
+  top: 20px;
+  left: 50%;
+  z-index: 3;
+}
+
+
+.stepper-item.completed .step-counter {
+  background-color: #049cdc;
+}
+
+.stepper-item.completed::after {
+  position: absolute;
+  content: "";
+  border-bottom: 2px solid #049cdc;
+  width: 100%;
+  top: 20px;
+  left: 50%;
+  z-index: 3;
+}
+
+.stepper-item:first-child::before {
+  content: none;
+}
+.stepper-item:last-child::after {
+  content: none;
+}
+
+.step-link{
+	text-decoration: none;
+	color: white;
+}
+
+.activitiescardwidth{
+	width:100%;
+	min-width:100%;
+}
+
+.questionpadding{
+	padding-top:2em;
+}
+
+.questionparagraphfont{
+	font-size: 2em;
+}
+
+.loginleft{
+	width: 40%; text-align: right; float:left
+}
+
+.loginright{
+	width:30%; float:left; background-color: #d2d9eb; border-radius:2em; padding: 2em; margin-top:1em; margin-left:3em;
+}
+
+.loginfcontrol{
+	width: 15em;
+}
+
+.beneficios{
+	margin-left:20%;
+}
+
+@media (max-width: 576px) { 
+	
+	.indexcardwidth{
+		width:90%;
+		min-width:90%;
+	}
+	.showdesk{
+		display: none;
+	}
+	.response {
+	  padding: 0.5rem 2.5rem;
+	  border-radius: 5rem;
+	  font-size: 2rem;
+	}	
+	.questionpadding{
+		padding-top:0em;
+	}
+	.questionparagraphfont{
+		font-size: 1.5em;
+	}
+	
+	.loginleft{
+		width: 100%; text-align: center; 
+	}
+
+	.loginright{
+		width:100%;  background-color: #d2d9eb; border-radius:2em; padding: 2em; margin-top:0em; margin-left:0em;
+	}
+	
+	.loginfcontrol{
+		width: 10em;
+	}
+	
+	.beneficios{
+		margin-left:10%;
+	}
+	
+
+	
+}
+
+@media (max-width: 768px) and (min-width: 576px) { 
+	.indexcardwidth{
+		width:90%;
+		min-width:90%;
+	}
+	.showdesk{
+		display: none;
+	}	
+	.response {
+	  padding: 0.5rem 2.5rem;
+	  border-radius: 5rem;
+	  font-size: 2rem;
+	}	
+	.questionpadding{
+		padding-top:0em;
+	}	
+	.loginleft{
+		width: 100%; text-align: center; 
+	}
+
+	.loginright{
+		width:100%;  background-color: #d2d9eb; border-radius:2em; padding: 2em; margin-top:0em; margin-left:0em;
+	}
+	
+	.loginfcontrol{
+		width: 20em;
+	}
+
+	.beneficios{
+		margin-left:7%;
+	}
+	
+	
+}
+
+@media (max-width: 5000px) and (min-width: 769px) { 
+	.indexcardwidth{
+		width:45%;
+	}
+	.showmobile{
+		display: none;
+	}		
+	
+	.beneficios{
+		margin-left:20%;
+	}
+	
+}
+
+.indexcardwidth{
+	width:45%;
+}
+
+.testhistorypadding{
+	padding-bottom: 5em;
+}
+
+
+
+

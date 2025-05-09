@@ -1,0 +1,4 @@
+[26-Apr-2025 08:27:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/daminssc/dragisneuropedia.com/wp-admin/network/menu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-admin/network/menu.php on line 11

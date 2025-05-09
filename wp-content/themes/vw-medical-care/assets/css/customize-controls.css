@@ -1,0 +1,101 @@
+#customize-controls .control-section-vw-medical-care .accordion-section-title:hover,
+#customize-controls .control-section-vw-medical-care .accordion-section-title:focus {
+	background-color: #fff;
+}
+.control-section-vw-medical-care .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+.rtl .control-section-vw-medical-care .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+/* ---------Customizer--------- */
+.control-section-vw-medical-care h3.accordion-section-title {
+    background:  #3fa4f6 !important;
+    font-size: 14px !important;
+    color: #fff !important;
+}
+a.button.button-secondary.alignright {
+    color: #fff;
+    box-shadow: none;
+    font-weight: bold;
+    padding: 1px 10px;
+    background: #2f3241;
+    height: 32px;   
+    font-size: 12px !important;
+}
+a.button.button-secondary.alignright:hover {
+    background: #2f3241;
+    color: #fff;
+}
+.customize-control-title {
+  display: -webkit-inline-box;
+  font-size: 12px;
+  line-height: 25px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  background: #0085ba;
+  padding: 0px 15px;
+  color: #fff;
+}
+/*------- Typogarphy ----------*/
+.customize-control input[type=number], 
+.customize-control input[type=search], 
+.customize-control input[type=tel], 
+.customize-control input[type=url], 
+.customize-control input[type=text], 
+.customize-control input[type=password],
+.customize-control input[type=email],
+.customize-control select{
+	border: none;
+}
+.customize-control-typography li.typography-font-weight,
+.customize-control-typography li.typography-font-style,
+.customize-control-typography li.typography-font-size,
+.customize-control-typography li.typography-line-height {
+  float: left;
+  width: 50%;
+}
+.customize-control-typography li.typography-font-weight select,
+.customize-control-typography li.typography-font-style select {
+  width: 90%;
+}
+.customize-control-typography li.typography-font-weight,
+.customize-control-typography li.typography-font-size {
+  clear: both;
+}
+.customize-control-typography li.typography-font-size input,
+.customize-control-typography li.typography-line-height input {
+  width: 90%;
+}
+input.typography-font-color {
+  padding: 0;
+  margin: 0;
+}
+li#customize-control-vw_medical_care_h1_typography,
+li#customize-control-vw_medical_care_h2_typography,
+li#customize-control-vw_medical_care_h3_typography,
+li#customize-control-vw_medical_care_h4_typography,
+li#customize-control-vw_medical_care_h5_typography,
+li#customize-control-vw_medical_care_p_typography {
+  border-bottom: solid 2px #1e1e1e1e;
+  padding-bottom: 12px;
+}
+/* ---------Image Toggle --------- */
+img.vw-medical-care-radio-img-img {
+ width: 80px;
+ margin-right: 3px;
+}
+img.vw-medical-care-radio-img-selected {
+  border: solid 2px #0085ba;
+}
+/* ---------Excerpt & Logo --------- */
+input#_customize-input-vw_medical_care_excerpt_number,
+input#_customize-input-logo_size, 
+input#_customize-input-vw_medical_care_slider_excerpt_number,
+input#_customize-input-vw_medical_care_facilities_excerpt_number,
+input#_customize-input-vw_medical_care_slider_opacity_color {
+  width: 100%;
+}

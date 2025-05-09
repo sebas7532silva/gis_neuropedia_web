@@ -1,0 +1,56 @@
+[26-Apr-2025 08:26:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.asf.php on line 17
+[26-Apr-2025 08:27:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.flv.php:76
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.flv.php on line 76
+[26-Apr-2025 08:27:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.matroska.php:216
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[26-Apr-2025 08:27:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[26-Apr-2025 08:27:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio-video.riff.php on line 26
+[26-Apr-2025 08:27:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.ac3.php on line 18
+[26-Apr-2025 08:27:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.dts.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.dts.php on line 21
+[26-Apr-2025 08:27:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.flac.php on line 18
+[26-Apr-2025 08:27:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.mp3.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.mp3.php on line 25
+[26-Apr-2025 08:27:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.audio.ogg.php on line 17
+[26-Apr-2025 08:27:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.tag.apetag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.tag.apetag.php on line 17
+[26-Apr-2025 08:27:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.tag.id3v1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.tag.id3v1.php on line 18
+[26-Apr-2025 08:27:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.tag.id3v2.php on line 17
+[26-Apr-2025 08:27:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.tag.lyrics3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/ID3/module.tag.lyrics3.php on line 18

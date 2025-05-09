@@ -1,0 +1,30 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">doctor</custom-type>
+        <custom-type translate="1">faq</custom-type>
+        <custom-type translate="1">gallery</custom-type>
+        <custom-type translate="1">service</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">doctor-department</taxonomy>
+        <taxonomy translate="1">gallery-type</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="translate">_thumbnail_id</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="pearl_welcome_text"/>
+        <key name="pearl_footer_phone_title"/>
+        <key name="pearl_footer_copyright"/>
+        <key name="pearl_map_title"/>
+        <key name="pearl_map_description"/>
+        <key name="pearl_map_title_2"/>
+        <key name="pearl_map_description_2"/>
+        <key name="pearl_contact_detail_title"/>
+        <key name="pearl_contact_detail_desc"/>
+        <key name="pearl_contact_form_heading"/>
+        <key name="pearl_contact_form_desc"/>
+        <key name="pearl_timetable_heading"/>
+    </admin-texts>
+</wpml-config>

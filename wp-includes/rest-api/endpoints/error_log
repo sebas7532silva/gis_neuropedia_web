@@ -1,0 +1,20 @@
+[28-Nov-2022 18:02:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[28-Nov-2022 18:05:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[30-Nov-2022 19:10:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[30-Nov-2022 19:11:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[30-Nov-2022 19:13:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/daminssc/dragisneuropedia.com/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17

@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FameTheme Demo Importer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-28 20:25+0000\n"
+"PO-Revision-Date: 2019-10-28 20:25+0000\n"
+"Last-Translator: gisela <admin@dragisneuropedia.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: inc/class-progress.php:57
+msgid "You have not permissions to import."
+msgstr ""
+
+#: inc/class-progress.php:62
+msgid "No actions to do"
+msgstr ""
+
+#: inc/class-progress.php:80
+msgid "Not theme selected"
+msgstr ""
+
+#: inc/class-progress.php:92
+#, php-format
+msgid "%s theme activated"
+msgstr ""
+
+#: inc/class-progress.php:98
+#, php-format
+msgid ""
+"Demo data not found for <strong>%s</strong>. However you can import demo "
+"content by upload your demo files below."
+msgstr ""
+
+#: inc/class-progress.php:100
+msgid "Demo data ready for import."
+msgstr ""
+
+#: inc/class-progress.php:106
+msgid "This theme have not installed."
+msgstr ""
+
+#: inc/class-progress.php:113
+msgid "Dummy data files not found"
+msgstr ""
+
+#: inc/class-progress.php:131
+msgid "Dummy content empty"
+msgstr ""
+
+#: inc/class-dashboard.php:107
+#, php-format
+msgid "%s installed"
+msgstr ""
+
+#: inc/class-dashboard.php:108
+#, php-format
+msgid "%s not installed"
+msgstr ""
+
+#: inc/class-dashboard.php:109
+#, php-format
+msgid "%s not activated"
+msgstr ""
+
+#: inc/class-dashboard.php:110
+#, php-format
+msgid "Installing %s..."
+msgstr ""
+
+#: inc/class-dashboard.php:111
+#, php-format
+msgid "Activating %s..."
+msgstr ""
+
+#: inc/class-dashboard.php:112
+#, php-format
+msgid "%s activated"
+msgstr ""
+
+#: inc/class-dashboard.php:123
+msgid "All Done! View Site"
+msgstr ""
+
+#: inc/class-dashboard.php:124
+msgid "Import Failed!"
+msgstr ""
+
+#: inc/class-dashboard.php:125 inc/class-dashboard.php:340
+msgid "Import Now"
+msgstr ""
+
+#: inc/class-dashboard.php:126
+msgid "Importing..."
+msgstr ""
+
+#: inc/class-dashboard.php:127
+msgid "Activate Now"
+msgstr ""
+
+#: inc/class-dashboard.php:128
+msgid "Checking theme"
+msgstr ""
+
+#: inc/class-dashboard.php:129
+msgid "Checking resource"
+msgstr ""
+
+#: inc/class-dashboard.php:130
+msgid "Importing demo content..., are you sure want to cancel ?"
+msgstr ""
+
+#: inc/class-dashboard.php:203 inc/class-dashboard.php:582
+msgid "Demo Contents"
+msgstr ""
+
+#: inc/class-dashboard.php:247
+msgid "Collapse"
+msgstr ""
+
+#: inc/class-dashboard.php:260
+msgid "Your're viewing demo"
+msgstr ""
+
+#: inc/class-dashboard.php:269
+msgid ""
+"This theme is inactivated. Your must activate this theme before import demo "
+"content"
+msgstr ""
+
+#: inc/class-dashboard.php:275
+msgid "Upload XML file .xml"
+msgstr ""
+
+#: inc/class-dashboard.php:276
+msgid "Upload config file .json or .txt"
+msgstr ""
+
+#: inc/class-dashboard.php:283
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: inc/class-dashboard.php:289
+msgid "Import Users"
+msgstr ""
+
+#: inc/class-dashboard.php:295
+msgid "Import Categories"
+msgstr ""
+
+#: inc/class-dashboard.php:301
+msgid "Import Tags"
+msgstr ""
+
+#: inc/class-dashboard.php:307
+msgid "Import Taxonomies"
+msgstr ""
+
+#: inc/class-dashboard.php:313
+msgid "Import Posts & Media"
+msgstr ""
+
+#: inc/class-dashboard.php:319
+msgid "Import Options"
+msgstr ""
+
+#: inc/class-dashboard.php:325
+msgid "Import Widgets"
+msgstr ""
+
+#: inc/class-dashboard.php:331
+msgid "Import Customize Settings"
+msgstr ""
+
+#: inc/class-dashboard.php:599
+msgid "All Demos"
+msgstr ""
+
+#: inc/class-dashboard.php:615
+msgid "Welcome to FameThemes Demo Importer!"
+msgstr ""
+
+#: inc/class-dashboard.php:617
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the "
+"easiest way to setup your theme. It will allow you to quickly edit "
+"everything instead of creating content from scratch. When you import the "
+"data, the following things might happen:"
+msgstr ""
+
+#: inc/class-dashboard.php:620
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+
+#: inc/class-dashboard.php:621
+msgid "Posts, pages, images, widgets and menus will get imported."
+msgstr ""
+
+#: inc/class-dashboard.php:622
+msgid ""
+"Click \"Start Import Demo\" to start import, it can take a couple of minutes."
+msgstr ""
+
+#: inc/class-dashboard.php:624
+msgid ""
+"Notice: If your site already has content, please make sure you backup your "
+"database and WordPress files before import demo data."
+msgstr ""
+
+#: inc/class-dashboard.php:637
+msgid "Current Theme"
+msgstr ""
+
+#: inc/class-dashboard.php:639
+msgid "View Details"
+msgstr ""
+
+#: inc/class-dashboard.php:642
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/class-dashboard.php:653
+msgid "Start Import"
+msgstr ""
+
+#: inc/class-dashboard.php:662
+#, php-format
+msgid ""
+"PHP version is not support. You're using PHP version %s, please upgrade to "
+"version 5.6.20 or higher."
+msgstr ""
+
+#: inc/class-dashboard.php:700
+msgid "No Themes Found"
+msgstr ""
+
+#. Name of the plugin
+msgid "FameTheme Demo Importer"
+msgstr ""
+
+#. Description of the plugin
+msgid "Demo data import tool for FameThemes's themes."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/FameThemes/famethemes-demo-importer"
+msgstr ""
+
+#. Author of the plugin
+msgid "FameThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.famethemes.com/"
+msgstr ""

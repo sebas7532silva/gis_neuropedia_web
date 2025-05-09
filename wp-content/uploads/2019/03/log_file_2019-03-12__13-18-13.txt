@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: MedicalGuide Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://min.pearlthemes.com/medicalguide
+Data file = /home/smashing/public_html/min/medicalguide/wp-content/themes/pearl-medicalguide/inc/demo-import-files/content.xml
+Widget file = /home/smashing/public_html/min/medicalguide/wp-content/themes/pearl-medicalguide/inc/demo-import-files/widgets.wie
+Customizer file = /home/smashing/public_html/min/medicalguide/wp-content/themes/pearl-medicalguide/inc/demo-import-files/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Pages Sidebar : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+Calendar - No Title - Imported
+
+Footer First Column : 
+
+Categories - Categories - Imported
+
+Footer Second Column : 
+
+Pearl - Twitter - Latest Tweets - Imported
+
+Footer Third Column : 
+
+Pearl - Newsletter - Newsletter - Imported
+
+Footer Fourth Column : 
+
+Pearl - Contact - Get In Touch - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
