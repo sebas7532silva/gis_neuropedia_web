@@ -2,10 +2,10 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=daminssc_dgstests',
-    'username' => 'daminssc_dgstests',
-    'password' => 'EAU89W32423#',
-    'charset' => 'utf8',
+    'dsn' => 'mysql:host=dragisneuropedia.cs7q120zzdce.us-east-1.rds.amazonaws.com;dbname=dragisneuropedia',
+    'username' => 'admin',
+    'password' => 'EQ44G1wimfhDcgMylY8j',
+    'charset' => 'utf8mb4',
 
     // Schema cache options (for production environment)
     //'enableSchemaCache' => true,

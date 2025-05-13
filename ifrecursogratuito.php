@@ -81,25 +81,57 @@ function validarSub(){
 
 <?php
 
-if(isset($_POST["nombre"])){
-    $mysqli = new mysqli('localhost', 'daminssc_dragisneuropediawp', 'dr4g1sn3ur0pedi4202008-038*', 'daminssc_dragiscrm');
-    $sql="INSERT INTO descarga (nombreapellido, email, telefono, ip, fecha, data) VALUES ('".$_POST["nombre"]."', '".$_POST["email"]."', '".$_POST["telefono"]."', '".$_SERVER['REMOTE_ADDR']."', now(), '".$_REQUEST."')";
-    $mysqli->query($sql);
+if (isset($_POST["nombre"])) {
+
+    // Conexión a RDS
+    $mysqli = new mysqli(
+        'dragisneuropedia.cs7q120zzdce.us-east-1.rds.amazonaws.com', // Endpoint RDS
+        'admin',                                                    // Usuario RDS
+        'EQ44G1wimfhDcgMylY8j',                                     // Contraseña RDS
+        'dragisneuropedia'                                       // Base de datos
+    );
+
+    if ($mysqli->connect_error) {
+        die("❌ Error de conexión: " . $mysqli->connect_error);
+    }
+
+    // Preparar datos
+    $nombre = $_POST["nombre"];
+    $email = $_POST["email"];
+    $telefono = $_POST["telefono"];
+    $ip = $_SERVER["REMOTE_ADDR"];
+    $data = json_encode($_REQUEST);
+
+    // Inserta los datos en "descarga"
+    $stmt = $mysqli->prepare("INSERT INTO descarga (nombreapellido, email, telefono, ip, fecha, data) VALUES (?, ?, ?, ?, NOW(), ?)");
+    $stmt->bind_param("sssss", $nombre, $email, $telefono, $ip, $data);
+    $stmt->execute();
+    $stmt->close();
+
+    // Consulta el recurso más reciente
+    $stmt = $mysqli->prepare("SELECT nombre, archivo FROM recurso ORDER BY id DESC LIMIT 1");
+    $stmt->execute();
+    $stmt->bind_result($nombreArchivo, $rutaArchivo);
+    $stmt->fetch();
+    $stmt->close();
+
     $mysqli->close();
-
-    $mysqli = new mysqli('localhost', 'daminssc_dragisneuropediawp', 'dr4g1sn3ur0pedi4202008-038*', 'daminssc_dragiscrm');
-    $sql="SELECT nombre, archivo FROM recurso ORDER BY id DESC limit 1;";
-    $result=$mysqli->query($sql);
-    $result=mysqli_fetch_array($result);
-    $mysqli->close();
-
-
 ?>
-    <div style="position: float; float:left"><a href="https://dragisneuropedia.com/crm/web/files/<?=$result ["archivo"]?>" target="_blank"><img src="https://dragisneuropedia.com/crm/web/images/pdf.png" style="height:8em"></a></div>
-    <div style="position: float;float:left;margin-left: 2em;font-family: arial;font-size: 1.5em;margin-top: 2em;"><a href="https://dragisneuropedia.com/crm/web/files/<?=$result ["archivo"]?>" target="_blank"><?=$result ["nombre"]?> (Descarga)</a></div>
 
-<?php
-}else{
+    <!-- HTML con resultados -->
+    <div style="float:left;">
+        <a href="https://dragisneuropedia.com/crm/web/files/<?= htmlspecialchars($rutaArchivo) ?>" target="_blank">
+            <img src="https://dragisneuropedia.com/crm/web/images/pdf.png" style="height:8em">
+        </a>
+    </div>
+    <div style="float:left;margin-left:2em;font-family:arial;font-size:1.5em;margin-top:2em;">
+        <a href="https://dragisneuropedia.com/crm/web/files/<?= htmlspecialchars($rutaArchivo) ?>" target="_blank">
+            <?= htmlspecialchars($nombreArchivo) ?> (Descarga)
+        </a>
+    </div>
+
+<?php 
+} else {
 
 ?>
 

@@ -20,17 +20,10 @@ define('WP_CACHE', true);
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
+define( 'DB_HOST', 'dragisneuropedia.cs7q120zzdce.us-east-1.rds.amazonaws.com' ); // Tu endpoint RDS
+define( 'DB_USER', 'admin' );
+define( 'DB_PASSWORD', 'EQ44G1wimfhDcgMylY8j' );
 define( 'DB_NAME', 'daminssc_dragisneuropediawp' );
-
-/** MySQL database username */
-define( 'DB_USER', 'daminssc_dragisneuropediawp' );
-
-/** MySQL database password */
-define( 'DB_PASSWORD', 'dr4g1sn3ur0pedi4202008-038*' );
-
-/** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
